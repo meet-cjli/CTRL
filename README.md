@@ -18,7 +18,7 @@ very reason making SSL highly vulnerable to trojan attacks.
 
 
 ## Screenshot
-![screenshot](~/imgs/training.jpg)
+![screenshot](https://github.com/CCCjiang/CTRL/blob/master/imgs/training.jpg)
 
 
 
