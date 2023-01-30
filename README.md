@@ -42,7 +42,7 @@ very reason making SSL highly vulnerable to trojan attacks.
 
 ## Todo List
 1. SimSiam
-2. Ddefense
+2. Defense
 3. Test and find bugs
 
 ## License
