@@ -43,7 +43,8 @@ very reason making SSL highly vulnerable to trojan attacks.
 ## Todo List
 1. SimSiam
 2. Defense
-3. Test and find bugs
+3. Linear Evaluation
+4. Test and find bugs
 
 ## License
 This code has a GPL-style license.
