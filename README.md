@@ -1,9 +1,11 @@
-# Demystifying Self-supervised Trojan Attacks
+# An Embarrassingly Simple Backdoor Attack on Self-supervised Learning
+
 
 
 
 This is the code implementation (pytorch) for our paper:  
-[Demystifying Self-supervised Trojan Attacks](https://arxiv.org/abs/2210.07346)
+[An Embarrassingly Simple Backdoor Attack on Self-supervised Learning
+](https://arxiv.org/abs/2210.07346)
 
 We design and evaluate CTRL,  an extremely simple self-supervised trojan attack. By polluting
 a tiny fraction of training data (≤ 1%) with indistinguishable
