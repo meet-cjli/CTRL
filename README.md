@@ -53,10 +53,12 @@ This code has a GPL-style license.
 
 ## Cite our paper
 ```
-@article{li2022demystifying,
-  title={Demystifying Self-supervised Trojan Attacks},
-  author={Li, Changjiang and Pang, Ren and Xi, Zhaohan and Du, Tianyu and Ji, Shouling and Yao, Yuan and Wang, Ting},
-  journal={arXiv preprint arXiv:2210.07346},
-  year={2022}
+@InProceedings{Li_2023_ICCV,
+    author    = {Li, Changjiang and Pang, Ren and Xi, Zhaohan and Du, Tianyu and Ji, Shouling and Yao, Yuan and Wang, Ting},
+    title     = {An Embarrassingly Simple Backdoor Attack on Self-supervised Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {4367-4378}
 }
 ```
