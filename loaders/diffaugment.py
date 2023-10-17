@@ -262,8 +262,9 @@ def set_aug_diff(args):
                                            train=True,
                                            transform=transform_load,
                                            download=False)
+    else:
 
-    raise NotImplementedError
+         raise NotImplementedError
 
 
 
