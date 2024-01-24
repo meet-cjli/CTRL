@@ -65,12 +65,8 @@ This code has a GPL-style license.
 @inproceedings{li2024on,
   title={On the Difficulty of Defending Contrastive Learning against Backdoor Attacks},
   author={Li, Changjiang and Pang, Ren  and Cao, Bochuan Xi, Zhaohan and  Chen, Jinghui and Ji, Shouling and Wang, Ting},
- booktitle={The 33nd USENIX Security Symposium (Security '24)},
+  booktitle={The 33nd USENIX Security Symposium (Security '24)},
   year={2024},
-abbr={Difficulty},
-  bibtex_show={false},
-  selected={true},
-  dimensions={true},
 }
 
 
